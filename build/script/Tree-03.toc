@@ -1,0 +1,5 @@
+('..\\AutoAccept\\images',
+ 'images\\',
+ [],
+ 'DATA',
+ [('images\\test.png', '..\\AutoAccept\\images\\test.png', 'DATA')])
